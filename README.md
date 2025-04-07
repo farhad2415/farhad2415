@@ -13,7 +13,7 @@
 
 - 🤝 I’m have collaborated with [Zklib](https://pypi.org/project/zklib/)
 
-- 👨‍💻 All of my projects are available at [https://iamfarhad.com](https://iamfarhad.com)
+- 👨‍💻 All of my projects are available at [https://mhossain.me](https://mhossain.me)
 
 - 💬 Ask me about **Python, Django, Data Structure and Algorithms, Backend Engineering,**
 
