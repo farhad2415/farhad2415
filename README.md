@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Farhad Hossain</h1>
 <h3 align="center">I'm professional Python Developer From Bangladesh</h3>
 
-- 🔭 I’m currently working on [Healthy Living Bangladesh](https://healthylivingbd.com/)
+- 🔭 I’m currently working on [Anukul Bangladesh](https://anukul.org/)
 
 - 🌱 I’m currently learning **Python, Django, ArogoCD, Docker, Jenkins, Jira**
 
-- 👯 I’m looking to collaborate on [Hire and Fire](https://hire-and-fire.vercel.app/)
-
-- 🤝 I’m have collaborated with [Zklib](https://pypi.org/project/zklib/)
-
-- 👨‍💻 All of my projects are available at [https://mhossain.me](https://mhossain.me)
+- 👯 I’m looking to collaborate on [Hire and Fire](https://sahos.com.bd/, https://tekshoy.com/, https://poran.shop/ etc)
 
 - 💬 Ask me about **Python, Django, Data Structure and Algorithms, Backend Engineering,**
 
