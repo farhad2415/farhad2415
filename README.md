@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Farhad Hossain</h1>
 <h3 align="center">I'm professional Python Developer From Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhad2415&label=Profile%20views&color=0e75b6&style=flat" alt="farhad2415" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhad2415" alt="farhad2415" /></a> </p>
-
 - 🔭 I’m currently working on [Healthy Living Bangladesh](https://healthylivingbd.com/)
 
 - 🌱 I’m currently learning **Python, Django, ArogoCD, Docker, Jenkins, Jira**
